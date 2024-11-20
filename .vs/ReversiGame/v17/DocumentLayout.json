@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\controllers\\botgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\controllers\\botgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C18AD-7693-4808-BB24-88B3E68DAACF}|ReversiTest\\ReversiTest.csproj|d:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C18AD-7693-4808-BB24-88B3E68DAACF}|ReversiTest\\ReversiTest.csproj|solutionrelative:reversitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\views\\simpleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\views\\simpleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\reversigame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\reversigame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\models\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\models\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\models\\hardbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\models\\hardbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\views\\enhancedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\views\\enhancedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\views\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\views\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\models\\ibot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\models\\ibot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\controllers\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\controllers\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\models\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\models\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\services\\clidisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\services\\clidisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\reversigame\\models\\mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1C2B9A-0FC0-49B2-98CD-0AD44ABDDB26}|ReversiGame\\ReversiGame.csproj|solutionrelative:reversigame\\models\\mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReversiGame",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\ReversiGame.csproj",
+              "RelativeDocumentMoniker": "ReversiGame\\ReversiGame.csproj",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\ReversiGame.csproj",
+              "RelativeToolTip": "ReversiGame\\ReversiGame.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T19:00:13.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ReversiTest\\UnitTest1.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiTest\\UnitTest1.cs",
+              "RelativeToolTip": "ReversiTest\\UnitTest1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:30:08.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BotGameController.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Controllers\\BotGameController.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Controllers\\BotGameController.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Controllers\\BotGameController.cs",
+              "RelativeToolTip": "ReversiGame\\Controllers\\BotGameController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwNIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:31:25.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HardBot.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\HardBot.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Models\\HardBot.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\HardBot.cs",
+              "RelativeToolTip": "ReversiGame\\Models\\HardBot.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:42:13.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Views\\MainView.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Views\\MainView.cs",
+              "RelativeToolTip": "ReversiGame\\Views\\MainView.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:25:41.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Bot.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Models\\Bot.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Bot.cs",
+              "RelativeToolTip": "ReversiGame\\Models\\Bot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:44:39.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBot.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\IBot.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Models\\IBot.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\IBot.cs",
+              "RelativeToolTip": "ReversiGame\\Models\\IBot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:41:57.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnhancedView.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Views\\EnhancedView.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Views\\EnhancedView.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Views\\EnhancedView.cs",
+              "RelativeToolTip": "ReversiGame\\Views\\EnhancedView.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:47:39.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Models\\ViewModel.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\ViewModel.cs",
+              "RelativeToolTip": "ReversiGame\\Models\\ViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:46:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IView.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Views\\IView.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Views\\IView.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Views\\IView.cs",
+              "RelativeToolTip": "ReversiGame\\Views\\IView.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:45:11.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGameController.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Controllers\\IGameController.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Controllers\\IGameController.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Controllers\\IGameController.cs",
+              "RelativeToolTip": "ReversiGame\\Controllers\\IGameController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:15:35.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleView.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Views\\SimpleView.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Views\\SimpleView.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Views\\SimpleView.cs",
+              "RelativeToolTip": "ReversiGame\\Views\\SimpleView.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:14:19.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mode.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Mode.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Models\\Mode.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Mode.cs",
+              "RelativeToolTip": "ReversiGame\\Models\\Mode.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:27:00.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Program.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Program.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Program.cs",
+              "RelativeToolTip": "ReversiGame\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:39:28.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CliDisplayService.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Services\\CliDisplayService.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Services\\CliDisplayService.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Services\\CliDisplayService.cs",
+              "RelativeToolTip": "ReversiGame\\Services\\CliDisplayService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:30:13.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Board.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Models\\Board.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Board.cs",
+              "RelativeToolTip": "ReversiGame\\Models\\Board.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAUwKQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:29:57.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Move.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Move.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Models\\Move.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Move.cs",
+              "RelativeToolTip": "ReversiGame\\Models\\Move.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:29:17.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Models\\Player.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Models\\Player.cs",
+              "RelativeToolTip": "ReversiGame\\Models\\Player.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:26:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "ReversiGame\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\task\\taskrkr46913892\\assignment-2-more-on-mvc-super-main\\ReversiGame\\Controllers\\GameController.cs",
+              "RelativeToolTip": "ReversiGame\\Controllers\\GameController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:26:15.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
